@@ -1,0 +1,8 @@
+#ifndef FLOW_SENSOR_SENSIRION_H
+#define FLOW_SENSOR_SENSIRION_H
+
+
+int SENSIRION_readFlow();
+void SENSIRIONFLOWSENSOR_setup();
+
+#endif
